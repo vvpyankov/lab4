@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopDo", "LoopDo\LoopDo.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopContBreak", "loopContBreak\loopContBreak.csproj", "{17524FB9-DFC1-49CD-BD95-654E16269555}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4zadacha1", "lab4zadacha1\lab4zadacha1.csproj", "{EBA1E3F6-EF64-4B5D-B902-1AB7D4BBF0B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{17524FB9-DFC1-49CD-BD95-654E16269555}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17524FB9-DFC1-49CD-BD95-654E16269555}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17524FB9-DFC1-49CD-BD95-654E16269555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA1E3F6-EF64-4B5D-B902-1AB7D4BBF0B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA1E3F6-EF64-4B5D-B902-1AB7D4BBF0B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA1E3F6-EF64-4B5D-B902-1AB7D4BBF0B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA1E3F6-EF64-4B5D-B902-1AB7D4BBF0B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
